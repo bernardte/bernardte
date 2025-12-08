@@ -81,14 +81,14 @@
   
   <!-- Stats Cards -->
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=bernardte&theme=aura&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="165" />
-    <img src="https://nirzak-streak-stats.vercel.app/?user=bernardte&theme=aura&hide_border=false" alt="GitHub Streak" height="165" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardte&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=bernardte&theme=aura&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=1800" alt="GitHub Stats" height="165" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=bernardte&theme=aura&hide_border=false&cache_seconds=1800" alt="GitHub Streak" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardte&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1800" alt="Top Languages" height="165"/>
   </div>
 
   <!-- Additional Stats -->
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=bernardte&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" alt="Activity Graph" height="250" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=bernardte&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&cache_seconds=1800" alt="Activity Graph" height="250" />
   </div>
 
 </div>
@@ -97,14 +97,14 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bernardte&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=bernardte&theme=radical&no-frame=false&no-bg=true&margin-w=4&cache_seconds=1800)
 
 ---
 
 ## 📈 Contribution Overview
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bernardte&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=bernardte&limit=5&theme=dark&combine_all_yearly_contributions=true&cache_seconds=1800)
 
 ---
 
