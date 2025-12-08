@@ -83,7 +83,7 @@
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <img src="https://github-readme-stats.vercel.app/api?username=bernardte&theme=aura&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="165" />
     <img src="https://nirzak-streak-stats.vercel.app/?user=bernardte&theme=aura&hide_border=false" alt="GitHub Streak" height="165" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardte&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardte&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="165"/>
   </div>
 
   <!-- Additional Stats -->
