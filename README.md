@@ -140,11 +140,10 @@ const currentFocus = {
   
   learningGoals: {
     shortTerm: [
-      "Master Next.js App Router",
-      "Deepen React Hooks understanding", 
-      "Learn advanced TypeScript patterns",
-      "Explore WebSocket implementations"
-    ],
+        "Master Flutter UI development",
+        "Understand State Management",
+        "Build cross-platform mobile apps"
+    ]
     longTerm: [
       "Become proficient in cloud technologies (AWS/Azure)",
       "Master system design principles",
